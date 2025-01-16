@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to Allie's Website</title>
+</head>
+<body>
+
+<h1>Hello, and welcome to my website!</h1>
+<strong>Here is my todo list</strong>
+<strong>      Day        Hour      Module</strong>
+<p>        Tuesday   09:15-10:30 Operating Systems</p>
+<p>        Tuesday   10:45-12:00 Web Development</p>
+<p>        Thursday  09:15-10:30 Operating Systems</p>
+<p>        Thursday  10:45-12:00 Web Development</p>
+
+<p>What is my complete name?</p>
+<ul>
+  <li>Allie Sproul</li>
+</ul>
+
+<p>Where are you from?</p>
+<ul>
+  <li>Brielle, NJ</li>
+</ul>
+
+<p>How are you?</p>
+<ul>
+  <li>20</li>
+</ul>
+
+<p>What is a fun fact about yourself??</p>
+<ul>
+  <li>I love dogs</li>
+</ul>
+
+<img src="https://hips.hearstapps.com/hmg-prod/images/golden-retriever-dog-royalty-free-image-505534037-1565105327.jpg?crop=0.760xw:1.00xh;0.204xw,0&resize=980:*" alt="Dog">
+
+</body>
+</html>
